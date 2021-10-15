@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 にっくさんだよ
 
-### わたしについては <https://nicksan.live> をごらんください
+わたしについては <https://nicksan.live> をごらんください
 
 <!--
 **nick-san/nick-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
