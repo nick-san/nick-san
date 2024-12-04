@@ -1,11 +1,7 @@
-### RLY SLEEPY な NICK です
+### Who am I ????
 
-わたしについては [こちら](https://nick-san.github.io/nickpage/) をごらんください
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nick-san&theme=yeblu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-- 🔭 I’m currently working on CTV (Cathie's Cable TV)(うそだよ)
-- こーどはかけないので一般消費者向け機械をおもにいじってあそんでます
+- RLY SLEEPY な NICK
+- 詳細は[こちら](https://nick-san.github.io/nickpage/) をごらんください
 
 <!--
 **nick-san/nick-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
