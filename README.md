@@ -1,6 +1,5 @@
-### Who am I ????
+### おれはだれど❓
 
-- RLY SLEEPY な NICK
 - 詳細は[こちら](https://nick-san.github.io/nickpage/) をごらんください
 
 <!--
